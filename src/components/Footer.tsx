@@ -21,7 +21,7 @@ export default function Footer() {
               Kenya’s Trending Politics, Public Policy & National Conversations — Explained Clearly.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://www.facebook.com/share/18Q42uDQms/" className="text-gray-300 hover:text-white transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
               <a href="#" className="text-gray-300 hover:text-white transition-colors">
