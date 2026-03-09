@@ -43,13 +43,8 @@ export default function Header() {
           </button>
 
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
-            <div className="bg-primary text-white font-bold p-1 rounded-sm text-xl tracking-tighter">
-              KHUSH
-            </div>
-            <span className="hidden sm:inline-block font-display font-bold text-xl tracking-tight text-primary">
-              GLOBAL NEWS
-            </span>
+          <Link to="/" className="flex items-center">
+             <img src="/khush logo.png" alt="Khush Global News" className="h-10" />
           </Link>
 
           {/* Desktop Navigation */}
