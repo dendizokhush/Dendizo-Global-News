@@ -44,7 +44,7 @@ export default function Header() {
 
           {/* Logo */}
           <Link to="/" className="flex items-center">
-             <img src="/khush logo.png" alt="Khush Global News" className="h-10" />
+             <img src="/logo.png" className="h-12 w-auto object-contain" />
           </Link>
 
           {/* Desktop Navigation */}
