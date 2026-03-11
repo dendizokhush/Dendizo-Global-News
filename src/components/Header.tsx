@@ -43,9 +43,9 @@ export default function Header() {
           </button>
 
           {/* Logo */}
-          <Link to="/" className="flex items-center">
-             <img src="/khush-logo.png" className="h-12 w-auto object-contain" />
-          </Link>
+         <Link to="/" className="flex items-center">
+            <img src="/khush-logo.png" className="h-12 w-auto object-contain" />
+         </Link>
 
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center space-x-6">
